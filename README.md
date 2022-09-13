@@ -1,5 +1,5 @@
-- 👋 Hey! I'm Yasmin.
-- 👀 I am interested in front-end development and want to get into the tech industry.
-- 🌱 I’m currently learning JavaScript and HTML/CSS.
+- Hey! I'm Yasmin.
+- I am interested in front-end development and want to get into the tech industry.
+- I’m currently learning JavaScript and HTML/CSS.
 - Here is the link to...
 -->
